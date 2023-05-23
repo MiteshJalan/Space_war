@@ -1,0 +1,3 @@
+##Movement of rocket:
+ we want to move player we add pixel e.g 5 pxl in while loop to move left and right
+ similarly we move up by adding pxl along y axis 
