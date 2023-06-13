@@ -13,7 +13,7 @@ Here are some screenshots from the Space Wars game:
 ![Screenshot 2](/ScreenShots/ScreenshotGP.jpg)
 
 
-![Screenshot 3](/ScreenShots/ScreenshotGO.png)
+![Screenshot 3](/ScreenShots/ScreenshotGO.jpg)
 
 
 ## How to Play
